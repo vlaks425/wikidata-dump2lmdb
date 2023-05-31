@@ -1,2 +1,2 @@
 # wikidata-dump2lmdb
-Convert a wikidata dump in json (compressed) format to an lmdb database that can be efficiently queried/modified
+A python script that converts a wikidata dump in json (compressed) format to an lmdb database that can be efficiently queried/mutated
